@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "Олександр",
+    "age": 25,
+    "email": "oleksandr@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Київ",
+      "street": "Хрещатик, 1"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Марія",
+    "age": 22,
+    "email": "mariya@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Львів",
+      "street": "Проспект Свободи, 15"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Андрій",
+    "age": 31,
+    "email": "andriy@example.com",
+    "isActive": false,
+    "address": {
+      "country": "Україна",
+      "city": "Одеса",
+      "street": "Дерибасівська, 8"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Анна",
+    "age": 28,
+    "email": "anna@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Харків",
+      "street": "Сумська, 24"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Максим",
+    "age": 35,
+    "email": "maksym@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Дніпро",
+      "street": "Проспект Яворницького, 50"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Софія",
+    "age": 19,
+    "email": "sofiya@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Київ",
+      "street": "Володимирська, 12"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Дмитро",
+    "age": 27,
+    "email": "dmytro@example.com",
+    "isActive": false,
+    "address": {
+      "country": "Україна",
+      "city": "Львів",
+      "street": "Франка, 5"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Катерина",
+    "age": 30,
+    "email": "kateryna@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Полтава",
+      "street": "Соборності, 18"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Роман",
+    "age": 24,
+    "email": "roman@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Чернівці",
+      "street": "Ольги Кобилянської, 7"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Ірина",
+    "age": 33,
+    "email": "iryna@example.com",
+    "isActive": false,
+    "address": {
+      "country": "Україна",
+      "city": "Івано-Франківськ",
+      "street": "Незалежності, 11"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Богдан",
+    "age": 29,
+    "email": "bohdan@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Тернопіль",
+      "street": "Руська, 3"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Олена",
+    "age": 26,
+    "email": "olena@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Київ",
+      "street": "Лесі Українки, 14"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Владислав",
+    "age": 21,
+    "email": "vladyslav@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Луцьк",
+      "street": "Волі, 20"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Наталія",
+    "age": 38,
+    "email": "nataliya@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Одеса",
+      "street": "Ришельєвська, 9"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Тарас",
+    "age": 32,
+    "email": "taras@example.com",
+    "isActive": false,
+    "address": {
+      "country": "Україна",
+      "city": "Львів",
+      "street": "Городоцька, 45"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Юлія",
+    "age": 23,
+    "email": "yuliya@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Ужгород",
+      "street": "Корзо, 4"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Сергій",
+    "age": 40,
+    "email": "serhiy@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Київ",
+      "street": "Велика Васильківська, 30"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Анастасія",
+    "age": 27,
+    "email": "anastasiya@example.com",
+    "isActive": false,
+    "address": {
+      "country": "Україна",
+      "city": "Хмельницький",
+      "street": "Проскурівська, 16"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Михайло",
+    "age": 36,
+    "email": "mykhailo@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Рівне",
+      "street": "Соборна, 22"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Вікторія",
+    "age": 29,
+    "email": "viktoriya@example.com",
+    "isActive": true,
+    "address": {
+      "country": "Україна",
+      "city": "Черкаси",
+      "street": "Шевченка, 40"
+    }
+  }
+]
